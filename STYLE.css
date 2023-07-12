@@ -1,0 +1,22 @@
+*{
+    margin: 35px;
+}
+body{
+    background-color: rgb(193, 167, 137);
+}
+h1{
+    color: brown;
+    display: flex;
+    justify-content: center;
+    font-size: 55px;
+}
+p{
+    font-size: 33px;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+h3{
+    font-size: 46px;
+}
